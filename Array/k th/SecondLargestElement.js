@@ -1,6 +1,4 @@
-let arr = [10,20,30,40,50,60,70,100,1111
-    
-];
+let arr = [10,20,30,40,50,60,70,100,1111];
 
 let largest = -Infinity;
 let secondLargest = -Infinity;
